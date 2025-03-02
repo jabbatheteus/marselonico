@@ -16,9 +16,11 @@
   </p1>
   <h2>Os Temas da Vida de Teteus (eu sou o Teteus)
   <ol>
-  <li>Música (Os Mutantes, Caetano '68, Tropicália, Led Zeppelin e Black Sabbath) </li>
-  <li>Cinema (amo o cinema, todo o estilo, com exceção de koreano e brasileiro de comédia) </li>
-  <li>Literatura (gosto de fantasia e filosofia)</li>
+  <li>Música (Os Mutantes, Caetano '68, Tropicália, Led Zeppelin e Black Sabbath)</li>
+  <li>Cinema (amo o cinema, todo o estilo, com exceção de koreano e brasileiro de comédia)
+  </li>
+  <li>Literatura (gosto de fantasia e filosofia)
+  </li>
   </ol>
   </h2>
  <h3>1 - Música: Desde sempre gostei de música, mas quando comecei a ler, a entender as coisas como elas realmente são, a música não foi mais somente um conjunto de barulho interessante, e sim um modo de expressar as mais angustiantes e estranhas sensações, e claro, a alegria de viver, a tristeza de existir, e a mazela de pensar.
