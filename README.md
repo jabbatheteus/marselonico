@@ -4,13 +4,13 @@
     <link rel="stylesheet" href="https://jabbatheteus.github.io/giberto/style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pindamonhangaba Soccer</title> </meta>
+    <title>Pindamonhangaba Soccer</title>
 </head>
 <body>
     <h1> Seja bem vindo ao confim da loucura</h1>
-   <p1> Aqui, vais encontrar as mais entranhas das coisas (as coisas que deixam feliz a vida de teteus)</p>
+   <p1> Aqui, vais encontrar as mais entranhas das coisas (as coisas que deixam feliz a vida de teteus)
     
-  <p1><img src="https://i.redd.it/absolute-cinema-wasnt-symmetrical-so-i-fixed-it-v0-xqg82y0lfg4e1.jpg?width=645&format=pjpg&auto=webp&s=d236fdd8d1bc96fece790400ada4d4d16e55a4ce" alt="Martin Scorese Absolute Cinema" width="320" height="300">
+  <p1><img src="https://i.redd.it/absolute-cinema-wasnt-symmetrical-so-i-fixed-it-v0-xqg82y0lfg4e1.jpg?width=645&format=pjpg&auto=webp&s=d236fdd8d1bc96fece790400ada4d4d16e55a4ce" alt="Martin Scorese Absolute Cinema" width="350" height="300">
   </p1>
   <h2>Os Temas da Vida de Teteus (eu sou o Teteus)
   <ol>
